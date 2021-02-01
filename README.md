@@ -17,6 +17,7 @@
   <img src="/assets/php-plain.svg" alt="php" width="40" height="40"/> 
   <img src="/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="/assets/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="/assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="/assets/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="/assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
