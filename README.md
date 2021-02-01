@@ -22,6 +22,7 @@
   <img src="/assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   <img src="/assets/django-original.svg" alt="django" width="40" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhee-bsp&layout=compact&hide=html" alt="Sudhee-bsp" /></p>
@@ -64,6 +65,10 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+
+URL LINK To use for icons:- 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg
+KEEP it a secret, and make sure if it's working. Have a great DAY buddy!!
 
 <a href="https://github.com/Sudhee-bsp" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
