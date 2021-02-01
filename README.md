@@ -30,6 +30,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudhee-bsp&show_icons=true" alt="Sudhee-bsp" /></p>
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Sudhee-bsp/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Sudhee-bsp/github-stats-transparent/output/generated/languages.svg)
+ </a>
+
 <!--
 **Sudhee-bsp/Sudhee-bsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
