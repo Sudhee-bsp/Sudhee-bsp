@@ -25,17 +25,12 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
 </p>
 
+### 📊 Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhee-bsp&layout=compact&hide=html" alt="Sudhee-bsp" /></p>
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudhee-bsp&show_icons=true" alt="Sudhee-bsp" /></p>
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Sudhee-bsp/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Sudhee-bsp/github-stats-transparent/output/generated/languages.svg)
- </a>
 
 <!--
 **Sudhee-bsp/Sudhee-bsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
