@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Sudhindra Pai</h1>
-<p align="center">Enthusiastic full stack web developer 👨‍💻, I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction, a clear understanding of frontend, backend, and project management.</p>
+<p align="center">Enthusiastic learner & interested in full stack web development 👨💻, invest time in designing web and exploring own creativity, having clear understanding of frontend, backend, and project management.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudhee-bsp&color=brightgreen" alt="Sudhee-bsp" /> </p>
 
@@ -27,7 +27,7 @@
 
 ### 📊 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhee-bsp&layout=compact&hide=html" alt="Sudhee-bsp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhee-bsp&layout=compact&hide=kotlin,typescript,hack" alt="Sudhee-bsp" /></p>
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudhee-bsp&count_private=true&show_icons=true" alt="Sudhee-bsp" /></p>
@@ -80,7 +80,7 @@ KEEP it a secret, and make sure if it's working. Have a great DAY buddy!!
 -->
 
 <a href="https://www.instagram.com/sudhee_bsp/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>  
