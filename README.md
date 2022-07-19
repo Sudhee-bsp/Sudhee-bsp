@@ -46,6 +46,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details close>
+<summary>My Github journey 😁</summary>
+<br>
+
+![Metrics](https://metrics.lecoq.io/Sudhee-bsp?template=classic&languages=1&isocalendar=1&achievements=1&lines=1&followup=1&introduction=1&notable=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=Asia%2FCalcutta)
+
+</details>
 
 
 ## Connect with me  
